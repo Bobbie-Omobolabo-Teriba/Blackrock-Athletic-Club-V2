@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-Apr-2018, 20:13:18
+    Author     : bobbi
+*/
+
+.galleryImg
+{
+    width: 220px;
+    height: 160px;
+}
+
+.galleryImg1
+{
+    width: 180px;
+    height: 200px;
+}
+.topgall
+{
+    float:left;
+    margin:10px;
+}
+.bottomgall
+{
+    float:left;
+    margin:10px;
+}
+.galleryImg1:hover,
+.galleryImg:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+    border: 5px solid yellow;
+    
+}

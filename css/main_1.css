@@ -1,0 +1,195 @@
+.linkImg
+            {
+                width: 50px;
+                height:50px;
+                margin:auto;
+            }
+.menulink
+{
+    margin-left: 20px;
+}
+.thisFooter
+{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+}
+.menulink:hover
+{
+    text-decoration: none;
+    
+}
+header
+{
+    background-color: yellow;
+    margin: 0;
+    top:0;
+}
+
+#homeimg2
+{
+    margin: 0 auto;
+    width:300px;
+    height:300px;
+    display:block;
+}
+
+
+#mapDiv
+{
+    width:500px;
+    height:300px;
+}
+
+#end_gallery
+{
+    padding:10px;
+}
+.row
+{
+    margin: 0 auto;
+    width:100%;
+}
+#mid{
+    margin-top: 10px;
+}
+#black_logo
+{
+    width:300px;
+    height:300px;
+}
+.navbar
+{
+    width: 100%;
+    background: linear-gradient(#3A3E45, black);
+}
+.logo{
+    height:70px;
+    width:70px;
+}
+#homeimg
+{
+    margin: 0 auto;
+    width:150px;
+    height:150px;
+}
+.headh1 a
+{
+    text-decoration: none;
+    color: #FFFF00;
+}
+.headh1 a:hover
+{
+    color: #E3C830;
+}
+.container
+{
+    background-color: white;
+    padding: 10px;
+}
+.social
+{
+    width:30px;
+    height:30px;
+    float:left;
+    margin-right: 5px;
+}
+
+#socialmenu
+{
+    margin-left:-350px;
+}
+.sidegallery
+{
+    height:160px;
+    width:240px;
+    border: 1px solid gray;
+}
+.sidegallery2
+{
+    height:150px;
+    width:100px;
+    border: 1px solid gray;
+    margin-right: 20px;
+}
+.fb-page{
+    width:800px;
+}
+
+
+
+
+
+.dropbtn {
+    color: black;
+    padding: 5px;
+    font-weight:bold;
+    border: none;
+    cursor: pointer;
+    width:230px;
+    background: linear-gradient(#FFE863, gold, #FFE863);
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background: linear-gradient(gold, #FFEB7A, gold);
+}
+
+#myInput {
+    border-box: box-sizing;
+    background-image: url('searchicon.png');
+    background-position: 14px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px ;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    width:100%;
+}
+
+#myInput:focus {outline: 3px solid #ddd;}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    min-width: 230px;
+    overflow: auto;
+    border: 1px solid #ddd;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #ddd}
+
+.show {display:block;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
